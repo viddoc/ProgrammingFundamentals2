@@ -1,0 +1,42 @@
+0131103628
+The C Programming Language
+Brian Kernighan
+0789751984
+C Programming Absolute Beginners Guide
+Greg Perry
+0672326663
+Programming in C
+Stephen Kochan
+0393979504
+C Programming: A Modern Approach
+K King
+0789751992
+C Programming in One Hour a Day
+Bradley Jones
+0321928423
+C Primer Plus
+Stephen Prata
+1449344186
+Understanding and Using C Pointers
+Richard Reese
+1438275579
+C Programming - An Advanced Course
+Noel Kalicharan
+0131774298
+Expert C Programming: Deep C Secrets
+Peter Linden
+0672305100
+Absolute Beginner's Guide to C
+Greg Perry
+1565923065
+Practical C Programming
+Steve Oualline
+1840785446
+C Programming in Easy Steps
+Mike McGrath
+1449399916
+Head First C
+David Griggiths
+1878058789
+C for Dummies, Volume 1
+Dan Gookin
