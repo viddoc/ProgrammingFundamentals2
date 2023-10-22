@@ -2,7 +2,8 @@
 *  Name Tommy Hudson
 *  Date
 *  File Name main.cpp
-*  Description
+*  Description: Program designed to buiild a library of books from a text file
+*  and allow books to be checked out, checked in, or added through the console.
 ********************************/
 
 // Headers
